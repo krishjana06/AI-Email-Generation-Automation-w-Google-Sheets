@@ -1,5 +1,5 @@
 //    Library Name: OAuth2
-//    Key: 1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF
+//    Key: *** (YOUR OAUTH2 KEY)
 
 // Runs when the spreadsheet is opened; adds the “Auto-Email” menu
 function onOpen() {
